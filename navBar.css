@@ -13,6 +13,7 @@ nav li a{
     color: white;
 }
 nav li a:hover{
-    background-color: lightyellow;
-    color: red;
+    background-color: rgb(239, 177, 174);
+    color: rgb(131, 135, 135);
+    transition: background-color 2s linear, color 2s ease-in-out;
 }
