@@ -9,6 +9,7 @@ aside{
     float: left;
 }
 section{
+    height: 200px;
     background-color: #DEB6AB;
     width: 80%;
     float: left;
